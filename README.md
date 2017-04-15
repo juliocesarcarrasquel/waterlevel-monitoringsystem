@@ -1,5 +1,4 @@
-# Development of a Tank water level & temperature monitoring solution
-# based on the STM32L476RG Microcontroller
+# Development of a Tank water level & temperature monitoring solution based on the STM32L476RG Microcontroller
 
 Università degli Studi di Roma La Sapienza
 Dipartimento di Ingegneria Informatica, Automatica 
